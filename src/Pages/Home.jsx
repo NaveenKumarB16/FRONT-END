@@ -2,7 +2,7 @@ import React from 'react'
 import { Container, Button } from 'react-bootstrap'
 import "../Styles/home.css"
 
-const home = () => {
+const Home = () => {
     return (
         <Container>
             <h1>WELCOME TO OUR WEBSITE</h1>
@@ -15,4 +15,4 @@ const home = () => {
     )
 }
 
-export default home;
+export default Home;
