@@ -1,6 +1,7 @@
 import React from 'react'
 import { Container, Button } from 'react-bootstrap'
-import "../Styles/home.css";
+import "../Styles/homestyle.css";
+
 
 const Home = () => {
     return (
