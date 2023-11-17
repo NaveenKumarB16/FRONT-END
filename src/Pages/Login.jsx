@@ -1,6 +1,4 @@
 import React, { useState } from 'react';
-import { Container, Form, Button } from "react-bootstrap";
-import "../Styles/Login.css";
 import { Link, useNavigate } from 'react-router-dom';
 
 const Login = () => {

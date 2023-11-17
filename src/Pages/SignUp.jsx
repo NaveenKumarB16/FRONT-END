@@ -1,7 +1,5 @@
 // Try this code Register
 import React, { useState } from 'react';
-import { Container, Form, Button } from "react-bootstrap";
-import "../Styles/SignUp.css";
 import { Link, useNavigate } from 'react-router-dom';
 
 const SignUp = () => {
